@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/85950488/171115951-664c9cdc-a3a5-45bb-
 🔥 Create new Blog.\
 🔥 Delete Blog with one click.\
 🔥 User Portfolio.\
-🔥 Users can see others portfolio.\
+🔥 Users can see others portfolio.
 
 
 ## Installation 📦
